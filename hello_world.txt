@@ -1,1 +1,3 @@
 This is one of my first attempts at learning to use Git
+
+This is my second attempt to check commit messages
